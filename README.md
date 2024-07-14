@@ -59,6 +59,6 @@ Follow these steps to integrate a dynamic weather widget into your Next.js proje
 
 The weather widget should now be integrated and look similar to this:
 
-<img src='https://github.com/user-attachments/assets/a182da38-49c6-453c-b179-1799116da369' width='30%'>
+<img src='https://github.com/user-attachments/assets/a182da38-49c6-453c-b179-1799116da369' width='40%'>
 
 It's just straight text, no css around it.
