@@ -40,6 +40,11 @@ Follow these steps to integrate a dynamic weather widget into your Next.js proje
 1. Create a folder named `components` in your project folder.
 2. Inside the `components` folder, create a file named `Weather.js`.
 3. Add the code from [here](https://github.com/HeySkidee/weather-widget-in-next.js/blob/main/components/Weather.js) to `Weather.js`.
+4. Install the dependencies by running the following command in project folder terminal:
+      
+   ```jsx
+   npm install swr framer-motion @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
+   ```
 
 ### Step 4: Import and Use the Weather Component
 
