@@ -43,7 +43,7 @@ Follow these steps to integrate a dynamic weather widget into your Next.js proje
 4. Install the dependencies by running the following command in project folder terminal:
       
    ```jsx
-   npm install swr framer-motion @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
+   npm install @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons swr framer-motion
    ```
 
 ### Step 4: Import and Use the Weather Component
